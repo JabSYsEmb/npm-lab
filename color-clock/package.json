@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "#1 re:coded lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo 'Hello World!'\""
+  },
+  "author": "Cabbar Serif",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
